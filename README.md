@@ -1,4 +1,5 @@
-# Style Transfer with Dashtoon
+# Style Transfer
+### Dashtoon Assignment
 Assignment submission for Dashtoon by **Susanket Sarkar**
 
 ## Introduction
