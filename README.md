@@ -8,7 +8,7 @@ Style transfer is an artistic technique that involves transforming the visual st
 ![Heading Image 1](https://github.com/SusanketSarkar/Dashtoon_Assignment/blob/main/output.png)
 
 ## Problem Statement
-The task is to develop a Python script for style transfer between travel and adventure images (base images) and artworks by Paul Klee (style images). The implementation utilizes the VGG19 neural network and L-BFGS optimization to generate images that blend the content of the travel images with the artistic style of Paul Klee's paintings.
+The task is to develop a Python script for style transfer between travel and adventure images (base images) and artworks (style images). The implementation utilizes the VGG19 neural network and L-BFGS optimization to generate images that blend the content of the travel images with the artistic style of Paul Klee's paintings.
 
 ## Implementation Steps
 
